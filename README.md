@@ -13,6 +13,10 @@ The workflow collects leads, enriches data, and prepares structured output for o
 - Structured output (Google Sheets / CRM)
 - Automation with webhooks
 
+## Workflow
+Includes production-ready 
+n8n workflow (workflow.json)
+
 ## Tech Stack
 - n8n
 - APIs (HTTP Request)
